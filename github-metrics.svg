@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="235" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
   
 
   <defs><style>@font-face {
@@ -33,13 +33,14 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">quertc@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [######              ] 28.57%
-<b>JAVASCRIPT  </b> [######              ] 25.70%
-<b>VUE         </b> [#####               ] 21.01%
-<b>RUST        </b> [###                 ] 10.81%
-<b>SHELL       </b> [##                  ] 6.55 %
-<b>HTML        </b> [##                  ] 6.19 %
-<b>SASS        </b> [#                   ] 1.16 %
+<pre><div class="stdin"><span class="ps1-path">quertc@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#######             ] 32.18%
+<b>JAVASCRIPT  </b> [####                ] 19.61%
+<b>VUE         </b> [####                ] 15.77%
+<b>SOLIDITY    </b> [###                 ] 13.76%
+<b>RUST        </b> [##                  ] 8.12 %
+<b>SHELL       </b> [#                   ] 4.92 %
+<b>HTML        </b> [#                   ] 4.78 %
+<b>SASS        </b> [#                   ] 0.87 %
 </div>
 
 </pre>

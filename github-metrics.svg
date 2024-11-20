@@ -33,14 +33,14 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">quertc@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#######             ] 32.18%
-<b>JAVASCRIPT  </b> [####                ] 19.61%
-<b>VUE         </b> [####                ] 15.77%
-<b>SOLIDITY    </b> [###                 ] 13.76%
-<b>RUST        </b> [##                  ] 8.12 %
-<b>SHELL       </b> [#                   ] 4.92 %
-<b>HTML        </b> [#                   ] 4.78 %
-<b>SASS        </b> [#                   ] 0.87 %
+<pre><div class="stdin"><span class="ps1-path">quertc@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [######              ] 26.69%
+<b>RUST        </b> [#####               ] 22.24%
+<b>JAVASCRIPT  </b> [####                ] 17.82%
+<b>VUE         </b> [###                 ] 13.08%
+<b>SOLIDITY    </b> [###                 ] 11.41%
+<b>SHELL       </b> [#                   ] 4.08 %
+<b>HTML        </b> [#                   ] 3.96 %
+<b>SASS        </b> [#                   ] 0.72 %
 </div>
 
 </pre>
